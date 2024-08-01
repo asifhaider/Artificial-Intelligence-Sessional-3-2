@@ -12,7 +12,7 @@
 
 ![csp](/Offline%202%20CSP/latin.png)
 
-- Implemented Simple backtracking and forward checking solvers with different variable ordering and value ordering heuristics
+- Implemented Simple backtracking and forward-checking solvers with different variable ordering and value ordering heuristics
     - [Problem Statement](/Offline%202%20CSP/offline-2-CSP.pdf)
     - [Codes](/Offline%202%20CSP/1805112/)
 
@@ -25,10 +25,10 @@
     - [Report](/Offline%203%20Local%20Search/1805112.pdf)
     - [Codes](/Offline%203%20Local%20Search/src/)
 
-## 4. Minesweeper Solver (Knowledge Representation and Inference)
+## 4. Minesweeper Solver (Knowledge Representation and Engineering)
 
 ![mine](/Offline%204%20Inference/mine.png)
 
-- Implemented random and safe moves based on discarding diagonal neigbor cells
+- Implemented random and safe moves based on discarding diagonal neighbor cells
     - [Problem Statement](/Offline%204%20Inference/offline-4-KE.pdf)
     - [Code](/Offline%204%20Inference/minesweeper.py)
